@@ -26,7 +26,7 @@ const Services = () => {
       icon: <Users className="text-green-600" size={40} />,
       title: "FREE Expert Consultation",
       description: "Bilkul muft expert salah - crop planning se market guidance tak",
-      features: ["Bilkul Free Service", "24/7 Support", "Farm Visit", "WhatsApp Guidance"],
+      features: ["Bilkul Free Service", "24/7 Support Sunday Off", "Farm Visit", "WhatsApp Guidance"],
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN14wRaR4Ruu7q_qMT3YTAKaQvDaBNYwKIqw&s",
       isHighlighted: true
     },
@@ -34,7 +34,7 @@ const Services = () => {
       icon: <Truck className="text-green-600" size={40} />,
       title: "Home Delivery Service",
       description: "Ghar tak delivery - emergency mai bhi available, no extra charge",
-      features: ["Free Delivery", "Same Day Service", "Emergency Available", "Safe Packing"],
+      features: ["Free Delivery on Order of 5000 RS", "Same Day Service", "Emergency Available", "Safe Packing"],
       image: "https://restaurantindia.s3.ap-south-1.amazonaws.com/s3fs-public/2021-09/Food%20delivery%20image.jpg"
     }
   ];
@@ -185,7 +185,7 @@ const Services = () => {
             </p>
             <div className="flex flex-col sm:flex-row gap-3 justify-center">
               <a 
-                href="tel:+919838738870" 
+                href="tel:+919565425500" 
                 className="bg-white text-green-600 px-6 py-3 rounded-lg font-semibold hover:bg-green-50 transition-colors duration-300 text-sm flex items-center justify-center"
               >
                 <Phone size={16} className="mr-2" />

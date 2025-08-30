@@ -59,7 +59,7 @@ const Home = () => {
 
           {/* Call Now Button - Desktop */}
           <a 
-            href="tel:+919838738870" 
+            href="tel:+919565425500" 
             className="hidden md:flex items-center space-x-2 bg-green-600 text-white px-4 py-2 rounded-lg hover:bg-green-700 transition-colors"
           >
             <Phone size={18} />
@@ -88,7 +88,7 @@ const Home = () => {
               </button>
             ))}
             <a 
-              href="tel:+919876543210" 
+              href="tel:+919565425500" 
               className="flex items-center space-x-2 bg-green-600 text-white px-4 py-3 rounded-lg mt-4 text-center justify-center"
             >
               <Phone size={20} />
