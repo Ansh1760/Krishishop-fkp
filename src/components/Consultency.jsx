@@ -209,13 +209,13 @@ const Consultency = () => {
             <p className="text-center text-gray-600 mb-3">Or contact us directly:</p>
             <div className="flex flex-col sm:flex-row gap-2 justify-center">
               <a 
-                href="tel:+919876543210" 
+                href="tel:+919565425500" 
                 className="bg-green-100 text-green-700 px-4 py-2 rounded-lg font-medium hover:bg-green-200 transition-colors text-center text-sm"
               >
                 📞 Call Us
               </a>
               <a 
-                href="https://wa.me/919876543210" 
+                href="https://wa.me/919565425500" 
                 className="bg-green-100 text-green-700 px-4 py-2 rounded-lg font-medium hover:bg-green-200 transition-colors text-center text-sm"
               >
                 💬 WhatsApp
